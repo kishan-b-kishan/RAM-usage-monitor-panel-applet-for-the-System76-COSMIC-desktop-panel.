@@ -58,13 +58,8 @@ Since the project is written in Rust, you can easily modify:
 ## Project Structure
 
 
-ram-applet/
-├── src
-│ ├── main.rs
-│ ├── window.rs
-│ └── time.rs
-├── Cargo.toml
-└── i18n
+<img width="175" height="240" alt="image" src="https://github.com/user-attachments/assets/ea22eeed-faf3-482f-b317-1bd22cfa1d92" />
+
 
 
 ---
