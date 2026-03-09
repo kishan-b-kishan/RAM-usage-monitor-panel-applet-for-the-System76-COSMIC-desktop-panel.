@@ -1,0 +1,1 @@
+# RAM-usage-monitor-panel-applet-for-the-System76-COSMIC-desktop-panel.
